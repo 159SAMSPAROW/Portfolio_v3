@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import { normalize } from 'styled-normalize'
+
 
 const GlobalStyles = createGlobalStyle`
   @font-face {
@@ -9,7 +9,7 @@ const GlobalStyles = createGlobalStyle`
     font-style: normal;
   }
 
-  ${normalize};
+
 
   * {
     box-sizing: border-box;
