@@ -8,5 +8,8 @@ export default defineConfig({
     rollupOptions: {
       external: ['styled-normalize'],
     },
+    optimizeDeps: {
+      include: ['styled-normalize']
+    }
   },
 })
