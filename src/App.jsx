@@ -2,7 +2,6 @@ import { useState, useEffect, useRef } from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero"
 import Acomplishements from "./components/Acomplishements";
-import GlobalStyles from "./style/globals";
 import Project from "./components/Project";
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
 
   return (
     <>
-      <GlobalStyles />
+      
       <video
         ref={videoRef}
         autoPlay
