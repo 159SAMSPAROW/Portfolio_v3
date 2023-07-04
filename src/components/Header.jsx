@@ -80,7 +80,7 @@ const Header = () => {
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </Div3>
-        ;
+        
       </SectionHeading>
       <ProfileContainer>
         <ProfileImg src="/images/photo_cv.png" alt="Photo de Sami" />
