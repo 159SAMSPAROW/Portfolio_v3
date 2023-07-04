@@ -45,7 +45,9 @@ useEffect(() => {
     
     <SectionHero>
       <Div1 ref={div1Element} style={{ opacity: isVisibleDiv1 ? 1 : 0, transition: 'opacity 1s', transitionDelay: '2.5s' }}>
+      Under construction : Portfolio being refactored
         <H2>
+          <br/>
           Bonjour, Ayant été admis au sein de la 2itechAcademy à
           Sophia-Antipolis, Je suis actuellement à la recherche d' une
           entreprise pour suivre une alternance en
