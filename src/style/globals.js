@@ -9,8 +9,6 @@ const GlobalStyles = createGlobalStyle`
     font-style: normal;
   }
 
-
-
   * {
     box-sizing: border-box;
     margin: 0;

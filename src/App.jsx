@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Acomplishements from "./components/Acomplishements";
 import Project from "./components/Project";
+import { BackgroundVideo } from "./style/app.js";
 
 function App() {
   const videoRef = useRef(null);
@@ -24,7 +25,7 @@ function App() {
   return (
     <>
       {!videoError ? (
-        <video
+        <BackgroundVideo
           ref={videoRef}
           autoPlay
           muted
@@ -41,8 +42,8 @@ function App() {
           }}
           onError={handleVideoError}
         >
-          <source src="/Video/BackgrundVid2.mp4" type="video/mp4" />
-        </video>
+          <source src="/Video/BackgroundVid2.mp4" type="video/mp4" />
+        </BackgroundVideo>
       ) : (
         <div
           style={{

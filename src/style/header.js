@@ -35,10 +35,18 @@ export const Div3 = styled.div`
   display: flex;
   justify-content: space-around;
   align-items: center;
+
+  @media (max-width: 760px) {
+    margin-top: 10%;
+  }
+
+  @media (max-width: 960px) {
+    margin-right: 2%;
+  }
 `;
 
 export const Div4 = styled.div`
-  font-size: 30px;
+
   font-weight: bold;
   color: white;
 
@@ -120,7 +128,9 @@ export const ProfileImg = styled.img`
 export const StyledSpan = styled.span`
   font-size: 10rem;
   line-height: 2.6;
-  @media : (max-width: 760px) {
-    font-size: 1.5rem;
+
+
+  @media (max-width: 760px) {
+    font-size: 1.8rem;
   }
 `;
