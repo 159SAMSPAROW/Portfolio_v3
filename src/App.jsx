@@ -35,7 +35,7 @@ function App() {
           opacity:0.9,
         }}
       >
-       <source src="../public/Video/BackgroundVid2.mp4" type="video/mp4" />
+       <source src="/Video/BackgroundVid2.mp4" type="video/mp4" />
       </video>
       <Header />
       <Hero />
