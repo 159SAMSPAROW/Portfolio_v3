@@ -120,7 +120,6 @@ export const ProfileImg = styled.img`
   @media (max-width: 760px) {
     width: 100px;
     height: 100px;
-    border-radius: 50%;
     margin-right: 15px;
     box-shadow: 0 0 5px #0023ff;
   }
