@@ -2,6 +2,7 @@ import styled from "styled-components";
 import { Carousel } from "react-responsive-carousel";
 
 export const SectionProject = styled.section`
+z-index: 1
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -31,7 +32,8 @@ export const ProjectDescription = styled.p`
   margin: 2%;
 
   @media (max-width: 760px) {
-    width: 75%;
+    width: 85%;
+    font-size: 1.4rem;
   }
 `;
 export const ProjectImage = styled.div`

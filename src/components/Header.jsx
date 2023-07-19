@@ -66,7 +66,7 @@ const Header = () => {
           </HeadingLink>
 
           <HeadingLink>
-            <StyledScrollLink to="" smooth={true} duration={500}>
+            <StyledScrollLink to="about" smooth={true} duration={500}>
               À Propos
             </StyledScrollLink>
           </HeadingLink>

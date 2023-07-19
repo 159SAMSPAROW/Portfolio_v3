@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Acomplishements from "./components/Acomplishements";
 import Project from "./components/Project";
+import Cv from "./components/Cv";
 import { BackgroundVideo } from "./style/app.js";
 
 function App() {
@@ -61,6 +62,7 @@ function App() {
       <Hero />
       <Project />
       <Acomplishements />
+      <Cv />
     </>
   );
 }
