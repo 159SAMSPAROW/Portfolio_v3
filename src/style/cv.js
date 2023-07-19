@@ -7,6 +7,7 @@ export const CvSection = styled.section`
   justify-content: center;
   align-items: center;
   width: 100%;
+  margin-bottom: 50px;
   height: 100vh @media (max-width: 760px) {
     flex-direction: column;
   }
