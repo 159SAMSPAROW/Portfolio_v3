@@ -5,8 +5,10 @@ export const BackgroundVideo = styled.video`
   opacity: 0.1;
 
   @media (max-width: 760px) {
+
   }
 
   @media (max-width: 960px) {
+    
   }
 `;

@@ -8,6 +8,7 @@ export const CvSection = styled.section`
   align-items: center;
   width: 100%;
   margin-bottom: 50px;
+
   height: 100vh @media (max-width: 760px) {
     flex-direction: column;
   }
@@ -45,5 +46,10 @@ export const Img = styled.img`
 
   &:hover {
     transform: scale(1.3); // Agrandit l'image de 30% lorsqu'elle est survolée
+  }
+
+  @media (max-width: 760px) {
+    width: 250px;
+    height: 400px;
   }
 `;

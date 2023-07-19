@@ -100,42 +100,27 @@ const Hero = () => {
         <P>
           J'ai passé la majeure partie de ma carrière professionnelle dans le
           secteur de la restauration.
-        </P>
-        <br />
-        <P>
+          <br /> <br />
           Cependant, un jour, une prise de conscience s'est imposée à moi. J'ai
           réalisé que je voulais accomplir quelque chose de plus significatif
           dans ma vie professionnelle.
-          <br />
-        </P>
-
-        <P>
+          <br /> <br />
           J'ai donc eu cette révélation : pour le reste de ma carrière, je
           devais trouver une voie qui raviverait ma passion et aprés moulte
           recherche et réflexion Boum !
-        </P>
-        <br />
-
-        <P>
+          <br /> <br />
           J' ai decouvert qu' apprendre a coder était en fait possible sans
           avoir étudié dans une écoles d' IT.
-        </P>
-        <br />
-
-        <P>
+          <br /> <br />
           Doté d'une motivation à toute épreuve, je me suis donc lancé dans la
           formation Développeur Web d'OpenClassrooms et, au fur et à mesure,
           j'ai tellement pris de plaisir à apprendre à coder que cette voie est
           devenue une évidence. Voir des interfaces prendre vie et créer des
           fonctions qui fonctionnent, c'est vraiment cool.
-        </P>
-        <br />
-
-        <P>
+          <br /> <br />
           Et pour poursuivre mon apprentissage et devenir Développeur j' ai
-          besoin de vous !
+          besoin de vous ! <br /> <br /> Mon engagement sera sans faille !
         </P>
-        <P> Mon engagement sera sans faille !</P>
       </Div3>
     </SectionHero>
   );

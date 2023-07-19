@@ -28,8 +28,8 @@ export const Div2 = styled.div`
   color: #ffffff;
 
   @media (max-width: 760px) {
-    text-align: center;
-    width: 90%;
+    text-align: end;
+    width: 100%;
     margin-top: 25%;
   }
 `;
@@ -40,8 +40,8 @@ export const Div3 = styled.div`
   color: #ffffff;
 
   @media (max-width: 760px) {
-    text-align: center;
-    width: 90%;
+    text-align: start;
+    width: 100%;
     margin-top: 25%;
   }
 `;
@@ -77,6 +77,7 @@ export const P = styled.p`
 
   @media (max-width: 760px) {
     font-size: 1.7rem;
+    text_align: start;
   }
 `;
 export const Img = styled.img`
