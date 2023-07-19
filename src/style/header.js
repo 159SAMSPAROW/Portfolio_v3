@@ -111,7 +111,7 @@ export const ProfileImg = styled.img`
   width: 250px;
   height: 250px;
   margin-right: 2%;
-  border-radius: 100px 15px 20px 60px;
+  border-radius: 50%;
   border: 5px solid #0023ff;
   box-shadow: 0 0 60px #0023ff;
 
