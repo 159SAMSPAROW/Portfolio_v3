@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import { Link as ScrollLink } from "react-scroll";
 
-
 export const SectionHeading = styled.section`
   display: flex;
   justify-content: space-around;
@@ -46,7 +45,6 @@ export const Div3 = styled.div`
 `;
 
 export const Div4 = styled.div`
-
   font-weight: bold;
   color: white;
 
@@ -67,11 +65,11 @@ export const Logo = styled.img`
 export const StyledScrollLink = styled(ScrollLink)`
   margin-left: 5%;
   font-size: 2.5rem;
-  color: #FFFF00;
+  color: #ffff00;
   transition: 0.4s ease;
 
   &:hover {
-    color:#FF0000;
+    color: #ff0000;
     opacity: 1;
     cursor: pointer;
   }
@@ -127,7 +125,6 @@ export const ProfileImg = styled.img`
 export const StyledSpan = styled.span`
   font-size: 10rem;
   line-height: 2.6;
-
 
   @media (max-width: 760px) {
     font-size: 1.8rem;

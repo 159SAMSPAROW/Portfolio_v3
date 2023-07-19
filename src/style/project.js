@@ -52,7 +52,7 @@ export const StyledCarousel = styled(Carousel)`
   @media (max-width: 760px) {
     margin-top: 50px;
   }
-  
+
   .control-dots .dot {
     background: transparent;
   }
