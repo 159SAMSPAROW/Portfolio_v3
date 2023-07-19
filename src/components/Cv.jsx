@@ -11,7 +11,7 @@ const Cv = () => {
           download="CV_DEMIR_Sami.png"
           title="Clicker pour me Télécharger"
         >
-          <Img src="/images/CV2.png"></Img>
+          <Img src="/images/CV3.jpg"></Img>
         </a>
       </Div1>
     </CvSection>
