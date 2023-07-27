@@ -83,7 +83,7 @@ const Header = () => {
         
       </SectionHeading>
       <ProfileContainer>
-        <ProfileImg src="/images/photo_cv.png" alt="Photo de Sami" />
+        <ProfileImg src="/images/Profil_Img_cv.jpg" alt="Photo de Sami" />
         <Div4 ref={ProfileText}>
           <StyledSpan>HELLO WORLD !</StyledSpan>
         </Div4>
