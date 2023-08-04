@@ -1,4 +1,4 @@
-import React from "react";
+
 import { CvSection, Div1, H2, Img } from "../style/cv";
 
 const Cv = () => {
@@ -7,7 +7,7 @@ const Cv = () => {
       <Div1>
         <H2>CV</H2>
         <a
-          href="/images/CV2.png"
+          href="/images/CV3.jpg"
           download="CV_DEMIR_Sami.png"
           title="Clicker pour me Télécharger"
         >
