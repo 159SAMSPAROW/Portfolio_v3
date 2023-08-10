@@ -56,7 +56,7 @@ const Header = () => {
       <SectionHeading>
         <Div1>
           <Logo src="/images/logo_sd_sticker.png" />
-          <Name>Sami DEMIR</Name>
+          <Name class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sami-demir-b55a30140" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/sami-demir-b55a30140?trk=profile-badge">Sami DEMIR</a></Name>
         </Div1>
         <Div2>
           <HeadingLink>
@@ -88,6 +88,8 @@ const Header = () => {
           <StyledSpan>HELLO WORLD !</StyledSpan>
         </Div4>
       </ProfileContainer>
+     
+              
     </Router>
   );
 };
