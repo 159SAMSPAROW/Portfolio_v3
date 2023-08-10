@@ -59,6 +59,17 @@ export const H2 = styled.h2`
     font-size: 1.5rem;
   }
 `;
+export const H3 = styled.h2`
+  margin-bottom: 50px;
+  font-size: 2.8rem;
+  line-height: 1.6;
+  color:  #ffff00;
+
+  @media (max-width: 760px) {
+    font-size: 1.5rem;
+  }
+`;
+
 export const Span = styled.span`
   display: block;
   margin-bottom: 2rem;

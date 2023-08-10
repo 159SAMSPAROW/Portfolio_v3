@@ -6,6 +6,7 @@ import {
   Div3,
   NavLink,
   H2,
+  H3,
   Span,
   P,
 } from "../style/hero";
@@ -96,6 +97,10 @@ const Hero = () => {
         </Span>
       </Div2>
       <Div3 id="about">
+
+        <H3>
+        À Propos de moi
+        </H3>
         <P>
           J'ai passé la majeure partie de ma carrière professionnelle dans le
           secteur de la restauration. 
