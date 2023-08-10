@@ -54,8 +54,12 @@ export const Div4 = styled.div`
   }
 `;
 
-export const Name = styled.h1`
-  color: #ffffff;
+export const Name = styled.a`
+
+  & a {
+    font-size: 2rem;
+    color: #ffffff;
+  }
 `;
 
 export const Logo = styled.img`
