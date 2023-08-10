@@ -123,7 +123,7 @@ const Hero = () => {
           <br/><br/>
            Et pour poursuivre mon apprentissage et devenir
           Développeur,
-          <br/><br/> j'ai besoin de vous !
+          <br/><br/> j'ai besoin de vous 🙋!
           <br/><br/> Je suis passionné et très motivé !
         </P>
       </Div3>
