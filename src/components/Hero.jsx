@@ -59,7 +59,6 @@ const Hero = () => {
           transitionDelay: "2.5s",
         }}
       >
-        Under construction : Portfolio being refactored
         <H2>
           <br />
           Bonjour, Ayant été admis au sein de la 2itechAcademy à
@@ -99,27 +98,28 @@ const Hero = () => {
       <Div3 id="about">
         <P>
           J'ai passé la majeure partie de ma carrière professionnelle dans le
-          secteur de la restauration.
-          <br /> <br />
-          Cependant, un jour, une prise de conscience s'est imposée à moi. J'ai
-          réalisé que je voulais accomplir quelque chose de plus significatif
-          dans ma vie professionnelle.
-          <br /> <br />
-          J'ai donc eu cette révélation : pour le reste de ma carrière, je
-          devais trouver une voie qui raviverait ma passion et aprés moulte
-          recherche et réflexion Boum !
-          <br /> <br />
-          J' ai decouvert qu' apprendre a coder était en fait possible sans
-          avoir étudié dans une écoles d' IT.
-          <br /> <br />
-          Doté d'une motivation à toute épreuve, je me suis donc lancé dans la
-          formation Développeur Web d'OpenClassrooms et, au fur et à mesure,
-          j'ai tellement pris de plaisir à apprendre à coder que cette voie est
-          devenue une évidence. Voir des interfaces prendre vie et créer des
-          fonctions qui fonctionnent, c'est vraiment cool.
-          <br /> <br />
-          Et pour poursuivre mon apprentissage et devenir Développeur j' ai
-          besoin de vous ! <br /> <br /> Mon engagement sera sans faille !
+          secteur de la restauration. 
+          <br/><br/>
+          Cependant, j'ai décidé de changer de voie.
+          <br/><br/>
+          Mon admiration pour le web et la technologie en général
+           m'a guidé vers
+          l'apprentissage des langages de programmation.
+          <br/><br/>
+           Doté d'une motivation à
+          toute épreuve, je me suis lancé dans la formation de Développeur Web
+          d'OpenClassrooms. 
+          <br/><br/>
+          Au fur et à mesure, j'ai pris tellement de plaisir à
+          apprendre à coder que cette voie est devenue une évidence pour moi.
+          <br/><br/>
+          Voir des interfaces et des fonctions prendre vie, c'est vraiment
+          cool !
+          <br/><br/>
+           Et pour poursuivre mon apprentissage et devenir
+          Développeur,
+          <br/><br/> j'ai besoin de vous !
+          <br/><br/> Je suis passionné et très motivé !
         </P>
       </Div3>
     </SectionHero>
