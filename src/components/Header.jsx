@@ -72,11 +72,11 @@ const Header = () => {
           </HeadingLink>
         </Div2>
         <Div3>
-          <SocialIcons href="https://github.com/159SAMSPAROW">
+          <SocialIcons href="https://github.com/159SAMSPAROW" target="blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
 
-          <SocialIcons href="https://www.linkedin.com/in/sami-demir-b55a30140/">
+          <SocialIcons href="https://www.linkedin.com/in/sami-demir-b55a30140/" target="blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </Div3>
