@@ -97,34 +97,47 @@ const Hero = () => {
         </Span>
       </Div2>
       <Div3 id="about">
-
-        <H3>
-        À Propos de moi
-        </H3>
+        <H3>À Propos de moi</H3>
         <P>
           J'ai passé la majeure partie de ma carrière professionnelle dans le
-          secteur de la restauration. 
-          <br/><br/>
+          secteur de la restauration.
+          <br />
+          <br />
           Cependant, j'ai décidé de changer de voie.
-          <br/><br/>
-          Mon admiration pour le web et la technologie en général
-           m'a guidée vers
-          l'apprentissage des langages de programmation.
-          <br/><br/>
-           Doté d'une motivation à
-          toute épreuve, je me suis lancé dans la formation de Développeur Web
-          d'OpenClassrooms. 
-          <br/><br/>
-          Au fur et à mesure, j'ai pris tellement de plaisir à
-          apprendre à coder que cette voie est devenue une évidence pour moi.
-          <br/><br/>
-          Voir des interfaces et des fonctions prendre vie, c'est vraiment
-          cool !
-          <br/><br/>
-           Et pour poursuivre mon apprentissage et devenir
-          Développeur,
-          <br/><br/> j'ai besoin de vous 🙋!
-          <br/><br/> Je suis passionné et très motivé !
+          <br />
+          <br />
+          Mon admiration pour le web et la technologie en général m'a guidée
+          vers l'apprentissage des langages de programmation.
+          <br />
+          <br />
+          Doté d'une motivation à toute épreuve, je me suis lancé dans la
+          formation de Développeur Web d'OpenClassrooms.
+          <br />
+          <br />
+           À l'issue de cette
+          formation, j'ai décroché le titre de "Développeur Intégrateur Web RNCP
+          NIVEAU 5 CODE 326T".
+          <br />
+          <br />
+          Ce parcours m'a permis de réaliser 7 projets ( visible sur mon compte public GitHub ), à
+          travers lesquels j'ai appris les technologies et langages tels que :
+          HTML5, CSS3, JavaScript, React, Git/GitHub, NodeJS, Express, MongoDB
+          et les API REST.
+          <br />
+          <br />
+          Au fur et à mesure, j'ai pris tellement de plaisir à apprendre à coder
+          que cette voie est devenue une évidence pour moi.
+          <br />
+          <br />
+          Voir des interfaces et des fonctions prendre vie, c'est vraiment cool
+          !
+          <br />
+          <br />
+          Et pour poursuivre mon apprentissage et devenir Développeur,
+          <br />
+          <br /> j'ai besoin de vous 🙋!
+          <br />
+          <br /> Je suis passionné et très motivé !
         </P>
       </Div3>
     </SectionHero>
