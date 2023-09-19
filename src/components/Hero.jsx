@@ -86,7 +86,7 @@ const Hero = () => {
         }}
       >
         <Span>💻 Domaine : DEVELOPPEMENT CONCEPTION D' APPLICATIONS</Span>
-        <Span>🗓 Début : à partir de Septembre 2023</Span>
+        <Span>🗓 Début : 4 octobre 2023</Span>
         <Span>⌛️ Durée : 24 mois</Span>
         <Span>
           📚 Rythme : 3 semaines en entreprise et 1 semaine en formation
