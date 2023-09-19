@@ -108,7 +108,7 @@ const Hero = () => {
           Cependant, j'ai décidé de changer de voie.
           <br/><br/>
           Mon admiration pour le web et la technologie en général
-           m'a guidé vers
+           m'a guidée vers
           l'apprentissage des langages de programmation.
           <br/><br/>
            Doté d'une motivation à

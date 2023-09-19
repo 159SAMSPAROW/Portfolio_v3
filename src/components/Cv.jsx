@@ -7,11 +7,11 @@ const Cv = () => {
       <Div1>
         <H2>CV</H2>
         <a
-          href="/images/CV_4.jpg"
-          download="CV_DEMIR_Sami.png"
+          href="/images/CV_5.pdf"
+          download="CV_DEMIR_Sami.pdf"
           title="Clicker pour me Télécharger"
         >
-          <Img src="/images/CV_4.jpg"></Img>
+          <Img src="/images/CV_5.jpg"></Img>
         </a>
       </Div1>
     </CvSection>
